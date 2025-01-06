@@ -1,5 +1,7 @@
 # Gerador de Recibos - JR Distribuidora
 
+![image](https://github.com/user-attachments/assets/aca818c3-ffe7-4a9b-ba79-58ceefa9479a)
+
 https://dvalenascimento.github.io/geradorRecib_DistrJR/
 
 Este é um sistema web simples e responsivo para geração de recibos personalizados em PDF, desenvolvido para a **JR Distribuidora**. Ele permite que o usuário insira os dados do cliente, produtos/serviços adquiridos, valores e forma de pagamento, e gere recibos de maneira prática.
